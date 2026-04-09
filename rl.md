@@ -56,7 +56,7 @@ PPO vs SAC vs MA-POCA:
 
 ## Tensorboard Monitoring
 
-![Tensorboard](image.png)
+![Tensorboard](./public/image.png)
 
 I know very less about tensorboard hence i pasted what gpt provided me. 
 We can use any if the laptops to monitor because the url can be publicized via ngrok
